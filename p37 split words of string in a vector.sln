@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "p37 split words of string in a vector", "p37 split words of string in a vector\p37 split words of string in a vector.vcxproj", "{794226F8-033D-4B56-BCB3-382F54AD4D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794226F8-033D-4B56-BCB3-382F54AD4D12}.Debug|x64.ActiveCfg = Debug|x64
+		{794226F8-033D-4B56-BCB3-382F54AD4D12}.Debug|x64.Build.0 = Debug|x64
+		{794226F8-033D-4B56-BCB3-382F54AD4D12}.Debug|x86.ActiveCfg = Debug|Win32
+		{794226F8-033D-4B56-BCB3-382F54AD4D12}.Debug|x86.Build.0 = Debug|Win32
+		{794226F8-033D-4B56-BCB3-382F54AD4D12}.Release|x64.ActiveCfg = Release|x64
+		{794226F8-033D-4B56-BCB3-382F54AD4D12}.Release|x64.Build.0 = Release|x64
+		{794226F8-033D-4B56-BCB3-382F54AD4D12}.Release|x86.ActiveCfg = Release|Win32
+		{794226F8-033D-4B56-BCB3-382F54AD4D12}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BB91C8E-56A7-41F3-A433-D34BED12B0AA}
+	EndGlobalSection
+EndGlobal
